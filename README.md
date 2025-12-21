@@ -30,5 +30,7 @@
 - 記者ハンドブック全項目の網羅（データセットの拡張）
 - 統計解析ツール（R）との連携による校閲精度の定量的評価
 
+![校閲の実行結果](../main/images/result1.png)
+
 ## ✉️ Contact
 - **Author:** Naoki Izumi
